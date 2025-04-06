@@ -7,6 +7,11 @@ import GitHub from '../assets/github.png';
 import Git from '../assets/git.png';
 import python from '../assets/python.png';
 import Tailwind from '../assets/tailwind.png';
+import Node from '../assets/njs.png'
+import Express from '../assets/ejs.png'
+import Mongo from '../assets/MongoDB.png'
+import mysql from '../assets/mysql.png'
+
 
 function Skills() {
   return (
@@ -41,6 +46,26 @@ function Skills() {
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 '>
                     <img className='w-20 mx-auto' src={Tailwind} alt="Tailwind Icon" />
                     <p>TAILWIND</p>
+                </div>
+
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 '>
+                    <img className='w-20 h-20 mx-auto object-contain p-2' src={Node} alt="Node Icon" />
+                    <p>NODE.JS</p>
+                </div>
+
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 '>
+                    <img className='w-20 h-20 mx-auto object-contain p-2' src={Express} alt="Node Icon" />
+                    <p>EXPRESS.JS</p>
+                </div>
+
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 '>
+                    <img className='w-20 h-20 mx-auto object-contain p-2' src={Mongo} alt="MongoDB Icon" />
+                    <p>MONGO DB</p>
+                </div>
+
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 '>
+                    <img className='w-20 h-20 mx-auto object-contain p-2' src={mysql} alt="Mysql Icon" />
+                    <p>MYSQL</p>
                 </div>
 
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 '>

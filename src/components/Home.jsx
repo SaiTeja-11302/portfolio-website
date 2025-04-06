@@ -38,7 +38,7 @@ const Home = () => {
                             <a href="https://github.com/SaiTeja-11302" target="_blank" rel="noreferrer" className='w-[40px] h-[40px] flex justify-center items-center bg-[#333333] text-gray-300 hover:text-white rounded-full'>
                                 <FaGithub size={20} />
                             </a>
-                            <a href="/SaiTejaJangaResume.pdf" target="_blank" rel="noreferrer" className='w-[40px] h-[40px] flex justify-center items-center bg-[#565f69] text-gray-300 hover:text-white rounded-full'>
+                            <a href="/SaiTejaReddyResume.pdf" target="_blank" rel="noreferrer" className='w-[40px] h-[40px] flex justify-center items-center bg-[#565f69] text-gray-300 hover:text-white rounded-full'>
                                 <BsFillPersonLinesFill size={20} />
                             </a>
                         </div>
